@@ -89,7 +89,7 @@ $.extend(new ViewerPage(),{
 					"height": 19
 				},
 				"isParentFixed": true,
-				"page": 1,
+				"page": 0,
 				"index": 0
 			},
 			{
@@ -167,7 +167,7 @@ $.extend(new ViewerPage(),{
 					"height": 19
 				},
 				"isParentFixed": true,
-				"page": 1,
+				"page": 0,
 				"index": 0
 			},
 			{
@@ -245,7 +245,7 @@ $.extend(new ViewerPage(),{
 					"height": 19
 				},
 				"isParentFixed": true,
-				"page": 1,
+				"page": 0,
 				"index": 0
 			},
 			{
@@ -293,7 +293,7 @@ $.extend(new ViewerPage(),{
 			"height": 1080
 		},
 		"isParentFixed": false,
-		"page": 1,
+		"page": 0,
 		"index": 0
 	}
 ],
@@ -341,7 +341,7 @@ $.extend(new ViewerPage(),{
 					"height": 19
 				},
 				"isParentFixed": true,
-				"page": 1,
+				"page": 0,
 				"index": 0
 			},
 			{
@@ -419,7 +419,7 @@ $.extend(new ViewerPage(),{
 					"height": 19
 				},
 				"isParentFixed": true,
-				"page": 1,
+				"page": 0,
 				"index": 0
 			},
 			{
@@ -497,7 +497,7 @@ $.extend(new ViewerPage(),{
 					"height": 19
 				},
 				"isParentFixed": true,
-				"page": 1,
+				"page": 0,
 				"index": 0
 			},
 			{
@@ -520,41 +520,11 @@ $.extend(new ViewerPage(),{
 ],
 'links' : [],
 })
-,$.extend(new ViewerPage(),{
-"index": 8,
-"image": "whatsapp(1).png",
-"image2x": "whatsapp(1)@2x.png",
-"width": 1440,
-"height": 1080,
-"title": "WhatsApp(1)",
-'layout' : {
-	"offset": 0,
-	"totalWidth": 960,
-	"numberOfColumns": 12,
-	"columnWidth": 60,
-	"gutterWidth": 20
-},
-'type': 'regular',
-'fixedPanels': [],
-'links' : [
-	{
-		"rect": {
-			"x": 0,
-			"y": 0,
-			"width": 1440,
-			"height": 1080
-		},
-		"isParentFixed": false,
-		"page": 5,
-		"index": 0
-	}
-],
-})
    ]
 ,"resolutions": [2],
 "zoomEnabled": true,
 "title": "Credirati_landing_simulator",
 "layersExist": true,
-"totalImages": 15,
+"totalImages": 14,
 "highlightLinks": false
 }

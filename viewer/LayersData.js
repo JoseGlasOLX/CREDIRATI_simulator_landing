@@ -51,7 +51,7 @@ var symbolsData = {};var layersData = [
                                 "frame": {
                                     "x": 524.7045974609374,
                                     "y": 507.6407831288081,
-                                    "width": 127.90927929687518,
+                                    "width": 127.90927929687507,
                                     "height": 79.8850603031936
                                 },
                                 "constrains": {
@@ -158,7 +158,7 @@ var symbolsData = {};var layersData = [
                                 "frame": {
                                     "x": 786.7045974609374,
                                     "y": 507.6407831288081,
-                                    "width": 127.90927929687518,
+                                    "width": 127.90927929687507,
                                     "height": 79.8850603031936
                                 },
                                 "constrains": {
@@ -5101,9 +5101,9 @@ var symbolsData = {};var layersData = [
                         "childs": [],
                         "frame": {
                             "x": 0,
-                            "y": 80,
+                            "y": 0,
                             "width": 1440,
-                            "height": 344
+                            "height": 424
                         },
                         "constrains": {
                             "height": false,
@@ -6583,9 +6583,9 @@ var symbolsData = {};var layersData = [
                         "childs": [],
                         "frame": {
                             "x": 0,
-                            "y": 80,
+                            "y": 0,
                             "width": 1440,
-                            "height": 344
+                            "height": 424
                         },
                         "constrains": {
                             "height": false,
@@ -8753,9 +8753,9 @@ var symbolsData = {};var layersData = [
                 "childs": [],
                 "frame": {
                     "x": 0,
-                    "y": 80,
+                    "y": 0,
                     "width": 1440,
-                    "height": 344
+                    "height": 424
                 },
                 "constrains": {
                     "height": false,
@@ -9670,321 +9670,6 @@ var symbolsData = {};var layersData = [
             "y": 0,
             "width": 1440,
             "height": 1280
-        }
-    },
-    {
-        "childs": [
-            {
-                "childs": [
-                    {
-                        "childs": [],
-                        "frame": {
-                            "x": 0,
-                            "y": 0,
-                            "width": 1440,
-                            "height": 1080
-                        },
-                        "constrains": {
-                            "height": false,
-                            "width": false
-                        }
-                    },
-                    {
-                        "symbolMasterName": "Logo WhatsApp",
-                        "childs": [
-                            {
-                                "childs": [
-                                    {
-                                        "childs": [],
-                                        "frame": {
-                                            "x": 821,
-                                            "y": 609,
-                                            "width": 13,
-                                            "height": 17
-                                        },
-                                        "constrains": {
-                                            "height": false,
-                                            "width": false
-                                        }
-                                    },
-                                    {
-                                        "childs": [],
-                                        "frame": {
-                                            "x": 814,
-                                            "y": 603,
-                                            "width": 27,
-                                            "height": 37
-                                        },
-                                        "constrains": {
-                                            "height": false,
-                                            "width": false
-                                        }
-                                    },
-                                    {
-                                        "childs": [],
-                                        "frame": {
-                                            "x": 792,
-                                            "y": 609,
-                                            "width": 13,
-                                            "height": 17
-                                        },
-                                        "constrains": {
-                                            "height": false,
-                                            "width": false
-                                        }
-                                    },
-                                    {
-                                        "childs": [],
-                                        "frame": {
-                                            "x": 785,
-                                            "y": 603,
-                                            "width": 27,
-                                            "height": 37
-                                        },
-                                        "constrains": {
-                                            "height": false,
-                                            "width": false
-                                        }
-                                    },
-                                    {
-                                        "childs": [],
-                                        "frame": {
-                                            "x": 760,
-                                            "y": 603,
-                                            "width": 10,
-                                            "height": 13
-                                        },
-                                        "constrains": {
-                                            "height": false,
-                                            "width": false
-                                        }
-                                    },
-                                    {
-                                        "childs": [],
-                                        "frame": {
-                                            "x": 747,
-                                            "y": 594,
-                                            "width": 36,
-                                            "height": 37
-                                        },
-                                        "constrains": {
-                                            "height": false,
-                                            "width": false
-                                        }
-                                    },
-                                    {
-                                        "childs": [],
-                                        "frame": {
-                                            "x": 723,
-                                            "y": 603,
-                                            "width": 25,
-                                            "height": 28
-                                        },
-                                        "constrains": {
-                                            "height": false,
-                                            "width": false
-                                        }
-                                    },
-                                    {
-                                        "childs": [],
-                                        "frame": {
-                                            "x": 704,
-                                            "y": 596,
-                                            "width": 17,
-                                            "height": 35
-                                        },
-                                        "constrains": {
-                                            "height": false,
-                                            "width": false
-                                        }
-                                    },
-                                    {
-                                        "childs": [],
-                                        "frame": {
-                                            "x": 685,
-                                            "y": 618,
-                                            "width": 10,
-                                            "height": 9
-                                        },
-                                        "constrains": {
-                                            "height": false,
-                                            "width": false
-                                        }
-                                    },
-                                    {
-                                        "childs": [],
-                                        "frame": {
-                                            "x": 677,
-                                            "y": 603,
-                                            "width": 26,
-                                            "height": 28
-                                        },
-                                        "constrains": {
-                                            "height": false,
-                                            "width": false
-                                        }
-                                    },
-                                    {
-                                        "childs": [],
-                                        "frame": {
-                                            "x": 649,
-                                            "y": 594,
-                                            "width": 25,
-                                            "height": 37
-                                        },
-                                        "constrains": {
-                                            "height": false,
-                                            "width": false
-                                        }
-                                    },
-                                    {
-                                        "childs": [],
-                                        "frame": {
-                                            "x": 599,
-                                            "y": 594,
-                                            "width": 49,
-                                            "height": 37
-                                        },
-                                        "constrains": {
-                                            "height": false,
-                                            "width": false
-                                        }
-                                    }
-                                ],
-                                "frame": {
-                                    "x": 599,
-                                    "y": 594,
-                                    "width": 242,
-                                    "height": 46
-                                },
-                                "constrains": {
-                                    "height": false,
-                                    "width": false
-                                }
-                            },
-                            {
-                                "childs": [],
-                                "frame": {
-                                    "x": 668,
-                                    "y": 450,
-                                    "width": 107,
-                                    "height": 107
-                                },
-                                "constrains": {
-                                    "height": false,
-                                    "width": false
-                                }
-                            },
-                            {
-                                "childs": [
-                                    {
-                                        "childs": [
-                                            {
-                                                "childs": [],
-                                                "frame": {
-                                                    "x": 668,
-                                                    "y": 450,
-                                                    "width": 107,
-                                                    "height": 107
-                                                },
-                                                "constrains": {
-                                                    "height": false,
-                                                    "width": false
-                                                }
-                                            },
-                                            {
-                                                "childs": [],
-                                                "frame": {
-                                                    "x": 655,
-                                                    "y": 440,
-                                                    "width": 130,
-                                                    "height": 131
-                                                },
-                                                "constrains": {
-                                                    "height": false,
-                                                    "width": false
-                                                }
-                                            }
-                                        ],
-                                        "frame": {
-                                            "x": 655,
-                                            "y": 440,
-                                            "width": 130,
-                                            "height": 131
-                                        },
-                                        "constrains": {
-                                            "height": false,
-                                            "width": false
-                                        }
-                                    },
-                                    {
-                                        "childs": [],
-                                        "frame": {
-                                            "x": 690,
-                                            "y": 475,
-                                            "width": 64,
-                                            "height": 59
-                                        },
-                                        "constrains": {
-                                            "height": false,
-                                            "width": false
-                                        }
-                                    }
-                                ],
-                                "frame": {
-                                    "x": 655,
-                                    "y": 440,
-                                    "width": 130,
-                                    "height": 131
-                                },
-                                "constrains": {
-                                    "height": false,
-                                    "width": false
-                                }
-                            }
-                        ],
-                        "frame": {
-                            "x": 599,
-                            "y": 440,
-                            "width": 242.28571428571422,
-                            "height": 200
-                        },
-                        "constrains": {
-                            "height": false,
-                            "width": false
-                        }
-                    }
-                ],
-                "frame": {
-                    "x": 0,
-                    "y": 0,
-                    "width": 1440,
-                    "height": 1080
-                },
-                "constrains": {
-                    "height": false,
-                    "width": false
-                }
-            },
-            {
-                "childs": [],
-                "frame": {
-                    "x": 0,
-                    "y": -87,
-                    "width": 1440,
-                    "height": 900
-                },
-                "constrains": {
-                    "height": false,
-                    "width": false
-                }
-            }
-        ],
-        "frame": {
-            "x": 0,
-            "y": 0,
-            "width": 1440,
-            "height": 1080
         }
     }
 ]
