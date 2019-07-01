@@ -1005,7 +1005,7 @@ var symbolsData = {};var layersData = [
                         }
                     },
                     {
-                        "text": "Cuestanos acerca de ti",
+                        "text": "Cuentanos acerca de ti",
                         "childs": [],
                         "frame": {
                             "x": 403,
@@ -4040,7 +4040,7 @@ var symbolsData = {};var layersData = [
                         }
                     },
                     {
-                        "text": "Cuestanos acerca de ti",
+                        "text": "Cuentanos acerca de ti",
                         "childs": [],
                         "frame": {
                             "x": 403.45833333333326,
@@ -6474,7 +6474,7 @@ var symbolsData = {};var layersData = [
                         }
                     },
                     {
-                        "text": "Cuestanos acerca de ti",
+                        "text": "Cuentanos acerca de ti",
                         "childs": [],
                         "frame": {
                             "x": 403.45833333333326,
@@ -7472,7 +7472,7 @@ var symbolsData = {};var layersData = [
                         }
                     },
                     {
-                        "text": "Cuestanos acerca de ti",
+                        "text": "Cuentanos \nacerca de ti",
                         "childs": [],
                         "frame": {
                             "x": 139,
@@ -11278,7 +11278,7 @@ var symbolsData = {};var layersData = [
                         }
                     },
                     {
-                        "text": "Cuestanos acerca de ti",
+                        "text": "Cuentanos\nacerca de ti",
                         "childs": [],
                         "frame": {
                             "x": 139,
@@ -12899,9 +12899,9 @@ var symbolsData = {};var layersData = [
                     }
                 ],
                 "frame": {
-                    "x": 0,
+                    "x": -46,
                     "y": 80,
-                    "width": 463,
+                    "width": 406,
                     "height": 269
                 },
                 "constrains": {
@@ -13191,7 +13191,7 @@ var symbolsData = {};var layersData = [
                         }
                     },
                     {
-                        "text": "Cuestanos acerca de ti",
+                        "text": "Cuentanos \nacerca de ti",
                         "childs": [],
                         "frame": {
                             "x": 139.68333333333328,
@@ -13209,7 +13209,7 @@ var symbolsData = {};var layersData = [
                     "x": 16,
                     "y": 225,
                     "width": 328,
-                    "height": 50
+                    "height": 62
                 },
                 "constrains": {
                     "height": false,
