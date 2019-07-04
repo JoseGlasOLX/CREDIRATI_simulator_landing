@@ -186,28 +186,6 @@ $.extend(new ViewerPage(),{
 		"image2x": "datos_personales-0@2x.png",
 		"shadow": "0px 0px 4px 0 #25424240 ",
 		"shadowX": 4
-	},
-	{
-		"constrains": {
-			"top": false,
-			"bottom": false,
-			"left": false,
-			"right": false,
-			"height": false,
-			"width": false
-		},
-		"x": 0,
-		"y": 1517,
-		"width": 1440,
-		"height": 100,
-		"type": "float",
-		"index": 1,
-		"isFloat": true,
-		"isFixedDiv": false,
-		"divID": "",
-		"links": [],
-		"image": "datos_personales-1.png",
-		"image2x": "datos_personales-1@2x.png"
 	}
 ],
 'links' : [
@@ -316,28 +294,6 @@ $.extend(new ViewerPage(),{
 		"image2x": "thanks-0@2x.png",
 		"shadow": "0px 0px 4px 0 #25424240 ",
 		"shadowX": 4
-	},
-	{
-		"constrains": {
-			"top": false,
-			"bottom": false,
-			"left": false,
-			"right": false,
-			"height": false,
-			"width": false
-		},
-		"x": 0,
-		"y": 980,
-		"width": 1440,
-		"height": 100,
-		"type": "float",
-		"index": 1,
-		"isFloat": true,
-		"isFixedDiv": false,
-		"divID": "",
-		"links": [],
-		"image": "thanks-1.png",
-		"image2x": "thanks-1@2x.png"
 	}
 ],
 'links' : [],
@@ -659,6 +615,6 @@ $.extend(new ViewerPage(),{
 "zoomEnabled": true,
 "title": "Credirati_landing_simulator",
 "layersExist": true,
-"totalImages": 20,
+"totalImages": 18,
 "highlightLinks": false
 }
