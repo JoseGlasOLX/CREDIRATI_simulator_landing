@@ -303,7 +303,7 @@ $.extend(new ViewerPage(),{
 "image": "simulador_mobile.png",
 "image2x": "simulador_mobile@2x.png",
 "width": 360,
-"height": 1841,
+"height": 1772,
 "title": "Simulador mobile",
 'layout' : {
 	"offset": 0,
@@ -401,7 +401,7 @@ $.extend(new ViewerPage(),{
 "image": "datos_personales_mobile.png",
 "image2x": "datos_personales_mobile@2x.png",
 "width": 360,
-"height": 2114,
+"height": 2039,
 "title": "Datos personales Mobile",
 'layout' : {
 	"offset": 0,
@@ -422,7 +422,7 @@ $.extend(new ViewerPage(),{
 			"width": false
 		},
 		"x": 0,
-		"y": 0,
+		"y": 1.1368683772161603e-13,
 		"width": 360,
 		"height": 24,
 		"type": "float",
@@ -444,7 +444,7 @@ $.extend(new ViewerPage(),{
 			"width": false
 		},
 		"x": 0,
-		"y": 24,
+		"y": 24.000000000000114,
 		"width": 360,
 		"height": 56,
 		"type": "float",
@@ -499,7 +499,7 @@ $.extend(new ViewerPage(),{
 "image": "thanks_mobile.png",
 "image2x": "thanks_mobile@2x.png",
 "width": 360,
-"height": 714,
+"height": 640,
 "title": "Thanks Mobile",
 'layout' : {
 	"offset": 0,

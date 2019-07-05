@@ -335,19 +335,6 @@ var symbolsData = {};var layersData = [
                 }
             },
             {
-                "childs": [],
-                "frame": {
-                    "x": 920,
-                    "y": 767,
-                    "width": 290.73333333333335,
-                    "height": 98
-                },
-                "constrains": {
-                    "height": true,
-                    "width": true
-                }
-            },
-            {
                 "text": "Sin ningún costo para ti",
                 "childs": [],
                 "frame": {
@@ -2582,6 +2569,360 @@ var symbolsData = {};var layersData = [
                     "height": false,
                     "width": false
                 }
+            },
+            {
+                "symbolMasterName": "Part of OLX group",
+                "childs": [
+                    {
+                        "childs": [
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1054,
+                                    "y": 600,
+                                    "width": 13,
+                                    "height": 17
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1057,
+                                    "y": 603,
+                                    "width": 6,
+                                    "height": 5
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1065,
+                                    "y": 600,
+                                    "width": 16,
+                                    "height": 17
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1072,
+                                    "y": 605,
+                                    "width": 4,
+                                    "height": 5
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1083,
+                                    "y": 600,
+                                    "width": 13,
+                                    "height": 17
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1087,
+                                    "y": 603,
+                                    "width": 6,
+                                    "height": 4
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1098,
+                                    "y": 600,
+                                    "width": 14,
+                                    "height": 17
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1118,
+                                    "y": 600,
+                                    "width": 17,
+                                    "height": 18
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1121,
+                                    "y": 603,
+                                    "width": 10,
+                                    "height": 12
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1137,
+                                    "y": 600,
+                                    "width": 12,
+                                    "height": 17
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1053,
+                                    "y": 622,
+                                    "width": 17,
+                                    "height": 18
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1056,
+                                    "y": 625,
+                                    "width": 10,
+                                    "height": 12
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1072,
+                                    "y": 622,
+                                    "width": 12,
+                                    "height": 17
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1086,
+                                    "y": 622,
+                                    "width": 14,
+                                    "height": 17
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1107,
+                                    "y": 622,
+                                    "width": 17,
+                                    "height": 18
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1127,
+                                    "y": 622,
+                                    "width": 13,
+                                    "height": 18
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1130,
+                                    "y": 625,
+                                    "width": 6,
+                                    "height": 4
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1141,
+                                    "y": 622,
+                                    "width": 17,
+                                    "height": 18
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1144,
+                                    "y": 625,
+                                    "width": 10,
+                                    "height": 12
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1160,
+                                    "y": 622,
+                                    "width": 14,
+                                    "height": 18
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1177,
+                                    "y": 622,
+                                    "width": 13,
+                                    "height": 17
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1180,
+                                    "y": 625,
+                                    "width": 6,
+                                    "height": 5
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 974,
+                                    "y": 590,
+                                    "width": 60,
+                                    "height": 60
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 984,
+                                    "y": 600,
+                                    "width": 40,
+                                    "height": 40
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 992,
+                                    "y": 620,
+                                    "width": 12,
+                                    "height": 12
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            }
+                        ],
+                        "frame": {
+                            "x": 974,
+                            "y": 590,
+                            "width": 216,
+                            "height": 60
+                        },
+                        "constrains": {
+                            "height": false,
+                            "width": false
+                        }
+                    }
+                ],
+                "frame": {
+                    "x": 970,
+                    "y": 586,
+                    "width": 224,
+                    "height": 68
+                },
+                "constrains": {
+                    "height": false,
+                    "width": false
+                }
             }
         ],
         "frame": {
@@ -2638,9 +2979,9 @@ var symbolsData = {};var layersData = [
                 "childs": [],
                 "frame": {
                     "x": 0,
-                    "y": 664,
+                    "y": 670,
                     "width": 1440,
-                    "height": 911
+                    "height": 905
                 },
                 "constrains": {
                     "height": false,
@@ -5231,19 +5572,6 @@ var symbolsData = {};var layersData = [
                 }
             },
             {
-                "childs": [],
-                "frame": {
-                    "x": 920,
-                    "y": 767,
-                    "width": 290.7333333333336,
-                    "height": 98
-                },
-                "constrains": {
-                    "height": true,
-                    "width": true
-                }
-            },
-            {
                 "text": "Sin ningún costo para ti",
                 "childs": [],
                 "frame": {
@@ -5254,6 +5582,360 @@ var symbolsData = {};var layersData = [
                 },
                 "constrains": {
                     "height": true,
+                    "width": false
+                }
+            },
+            {
+                "symbolMasterName": "Part of OLX group",
+                "childs": [
+                    {
+                        "childs": [
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1054,
+                                    "y": 600,
+                                    "width": 13,
+                                    "height": 17
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1057,
+                                    "y": 603,
+                                    "width": 6,
+                                    "height": 5
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1065,
+                                    "y": 600,
+                                    "width": 16,
+                                    "height": 17
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1072,
+                                    "y": 605,
+                                    "width": 4,
+                                    "height": 5
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1083,
+                                    "y": 600,
+                                    "width": 13,
+                                    "height": 17
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1087,
+                                    "y": 603,
+                                    "width": 6,
+                                    "height": 4
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1098,
+                                    "y": 600,
+                                    "width": 14,
+                                    "height": 17
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1118,
+                                    "y": 600,
+                                    "width": 17,
+                                    "height": 18
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1121,
+                                    "y": 603,
+                                    "width": 10,
+                                    "height": 12
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1137,
+                                    "y": 600,
+                                    "width": 12,
+                                    "height": 17
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1053,
+                                    "y": 622,
+                                    "width": 17,
+                                    "height": 18
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1056,
+                                    "y": 625,
+                                    "width": 10,
+                                    "height": 12
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1072,
+                                    "y": 622,
+                                    "width": 12,
+                                    "height": 17
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1086,
+                                    "y": 622,
+                                    "width": 14,
+                                    "height": 17
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1107,
+                                    "y": 622,
+                                    "width": 17,
+                                    "height": 18
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1127,
+                                    "y": 622,
+                                    "width": 13,
+                                    "height": 18
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1130,
+                                    "y": 625,
+                                    "width": 6,
+                                    "height": 4
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1141,
+                                    "y": 622,
+                                    "width": 17,
+                                    "height": 18
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1144,
+                                    "y": 625,
+                                    "width": 10,
+                                    "height": 12
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1160,
+                                    "y": 622,
+                                    "width": 14,
+                                    "height": 18
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1177,
+                                    "y": 622,
+                                    "width": 13,
+                                    "height": 17
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1180,
+                                    "y": 625,
+                                    "width": 6,
+                                    "height": 5
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 974,
+                                    "y": 590,
+                                    "width": 60,
+                                    "height": 60
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 984,
+                                    "y": 600,
+                                    "width": 40,
+                                    "height": 40
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 992,
+                                    "y": 620,
+                                    "width": 12,
+                                    "height": 12
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            }
+                        ],
+                        "frame": {
+                            "x": 974,
+                            "y": 590,
+                            "width": 216,
+                            "height": 60
+                        },
+                        "constrains": {
+                            "height": false,
+                            "width": false
+                        }
+                    }
+                ],
+                "frame": {
+                    "x": 970,
+                    "y": 586,
+                    "width": 224,
+                    "height": 68
+                },
+                "constrains": {
+                    "height": false,
                     "width": false
                 }
             }
@@ -6334,16 +7016,357 @@ var symbolsData = {};var layersData = [
                 }
             },
             {
-                "childs": [],
+                "symbolMasterName": "Part of OLX group",
+                "childs": [
+                    {
+                        "childs": [
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1054,
+                                    "y": 600,
+                                    "width": 13,
+                                    "height": 17
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1057,
+                                    "y": 603,
+                                    "width": 6,
+                                    "height": 5
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1065,
+                                    "y": 600,
+                                    "width": 16,
+                                    "height": 17
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1072,
+                                    "y": 605,
+                                    "width": 4,
+                                    "height": 5
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1083,
+                                    "y": 600,
+                                    "width": 13,
+                                    "height": 17
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1087,
+                                    "y": 603,
+                                    "width": 6,
+                                    "height": 4
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1098,
+                                    "y": 600,
+                                    "width": 14,
+                                    "height": 17
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1118,
+                                    "y": 600,
+                                    "width": 17,
+                                    "height": 18
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1121,
+                                    "y": 603,
+                                    "width": 10,
+                                    "height": 12
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1137,
+                                    "y": 600,
+                                    "width": 12,
+                                    "height": 17
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1053,
+                                    "y": 622,
+                                    "width": 17,
+                                    "height": 18
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1056,
+                                    "y": 625,
+                                    "width": 10,
+                                    "height": 12
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1072,
+                                    "y": 622,
+                                    "width": 12,
+                                    "height": 17
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1086,
+                                    "y": 622,
+                                    "width": 14,
+                                    "height": 17
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1107,
+                                    "y": 622,
+                                    "width": 17,
+                                    "height": 18
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1127,
+                                    "y": 622,
+                                    "width": 13,
+                                    "height": 18
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1130,
+                                    "y": 625,
+                                    "width": 6,
+                                    "height": 4
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1141,
+                                    "y": 622,
+                                    "width": 17,
+                                    "height": 18
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1144,
+                                    "y": 625,
+                                    "width": 10,
+                                    "height": 12
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1160,
+                                    "y": 622,
+                                    "width": 14,
+                                    "height": 18
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1177,
+                                    "y": 622,
+                                    "width": 13,
+                                    "height": 17
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 1180,
+                                    "y": 625,
+                                    "width": 6,
+                                    "height": 5
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 974,
+                                    "y": 590,
+                                    "width": 60,
+                                    "height": 60
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 984,
+                                    "y": 600,
+                                    "width": 40,
+                                    "height": 40
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 992,
+                                    "y": 620,
+                                    "width": 12,
+                                    "height": 12
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            }
+                        ],
+                        "frame": {
+                            "x": 974,
+                            "y": 590,
+                            "width": 216,
+                            "height": 60
+                        },
+                        "constrains": {
+                            "height": false,
+                            "width": false
+                        }
+                    }
+                ],
                 "frame": {
-                    "x": 920,
-                    "y": 694,
-                    "width": 290.7333333333336,
-                    "height": 98
+                    "x": 970.0000000000002,
+                    "y": 586,
+                    "width": 224,
+                    "height": 68
                 },
                 "constrains": {
-                    "height": true,
-                    "width": true
+                    "height": false,
+                    "width": false
                 }
             }
         ],
@@ -7878,7 +8901,7 @@ var symbolsData = {};var layersData = [
                         "childs": [],
                         "frame": {
                             "x": 16.5,
-                            "y": 1073.5,
+                            "y": 997.5,
                             "width": 25,
                             "height": 732
                         },
@@ -7891,7 +8914,7 @@ var symbolsData = {};var layersData = [
                         "childs": [],
                         "frame": {
                             "x": 319.5,
-                            "y": 1073.5,
+                            "y": 997.5,
                             "width": 25,
                             "height": 732
                         },
@@ -7905,7 +8928,7 @@ var symbolsData = {};var layersData = [
                         "childs": [],
                         "frame": {
                             "x": 65,
-                            "y": 1062,
+                            "y": 986,
                             "width": 230,
                             "height": 29
                         },
@@ -7923,7 +8946,7 @@ var symbolsData = {};var layersData = [
                                         "childs": [],
                                         "frame": {
                                             "x": 162,
-                                            "y": 1119,
+                                            "y": 1043,
                                             "width": 36,
                                             "height": 30
                                         },
@@ -7936,7 +8959,7 @@ var symbolsData = {};var layersData = [
                                         "childs": [],
                                         "frame": {
                                             "x": 176,
-                                            "y": 1113,
+                                            "y": 1037,
                                             "width": 8,
                                             "height": 5
                                         },
@@ -7949,7 +8972,7 @@ var symbolsData = {};var layersData = [
                                         "childs": [],
                                         "frame": {
                                             "x": 176,
-                                            "y": 1119,
+                                            "y": 1043,
                                             "width": 8,
                                             "height": 5
                                         },
@@ -7962,7 +8985,7 @@ var symbolsData = {};var layersData = [
                                         "childs": [],
                                         "frame": {
                                             "x": 176,
-                                            "y": 1125,
+                                            "y": 1049,
                                             "width": 8,
                                             "height": 5
                                         },
@@ -7974,7 +8997,7 @@ var symbolsData = {};var layersData = [
                                 ],
                                 "frame": {
                                     "x": 162,
-                                    "y": 1113,
+                                    "y": 1037,
                                     "width": 36,
                                     "height": 36
                                 },
@@ -7986,7 +9009,7 @@ var symbolsData = {};var layersData = [
                         ],
                         "frame": {
                             "x": 156,
-                            "y": 1107,
+                            "y": 1031,
                             "width": 48,
                             "height": 48
                         },
@@ -8000,7 +9023,7 @@ var symbolsData = {};var layersData = [
                         "childs": [],
                         "frame": {
                             "x": 140,
-                            "y": 1163,
+                            "y": 1087,
                             "width": 80,
                             "height": 15
                         },
@@ -8014,7 +9037,7 @@ var symbolsData = {};var layersData = [
                         "childs": [],
                         "frame": {
                             "x": 88,
-                            "y": 1182,
+                            "y": 1106,
                             "width": 184,
                             "height": 15
                         },
@@ -8032,7 +9055,7 @@ var symbolsData = {};var layersData = [
                                         "childs": [],
                                         "frame": {
                                             "x": 180,
-                                            "y": 1218,
+                                            "y": 1142,
                                             "width": 6,
                                             "height": 7
                                         },
@@ -8045,7 +9068,7 @@ var symbolsData = {};var layersData = [
                                         "childs": [],
                                         "frame": {
                                             "x": 173,
-                                            "y": 1218,
+                                            "y": 1142,
                                             "width": 6,
                                             "height": 7
                                         },
@@ -8057,7 +9080,7 @@ var symbolsData = {};var layersData = [
                                 ],
                                 "frame": {
                                     "x": 173,
-                                    "y": 1218,
+                                    "y": 1142,
                                     "width": 13,
                                     "height": 7
                                 },
@@ -8069,7 +9092,7 @@ var symbolsData = {};var layersData = [
                         ],
                         "frame": {
                             "x": 164,
-                            "y": 1205,
+                            "y": 1129,
                             "width": 32,
                             "height": 32
                         },
@@ -8087,7 +9110,7 @@ var symbolsData = {};var layersData = [
                                         "childs": [],
                                         "frame": {
                                             "x": 180,
-                                            "y": 1356,
+                                            "y": 1280,
                                             "width": 6,
                                             "height": 7
                                         },
@@ -8100,7 +9123,7 @@ var symbolsData = {};var layersData = [
                                         "childs": [],
                                         "frame": {
                                             "x": 173,
-                                            "y": 1356,
+                                            "y": 1280,
                                             "width": 6,
                                             "height": 7
                                         },
@@ -8112,7 +9135,7 @@ var symbolsData = {};var layersData = [
                                 ],
                                 "frame": {
                                     "x": 173,
-                                    "y": 1356,
+                                    "y": 1280,
                                     "width": 13,
                                     "height": 7
                                 },
@@ -8124,7 +9147,7 @@ var symbolsData = {};var layersData = [
                         ],
                         "frame": {
                             "x": 164,
-                            "y": 1343,
+                            "y": 1267,
                             "width": 32,
                             "height": 32
                         },
@@ -8142,7 +9165,7 @@ var symbolsData = {};var layersData = [
                                         "childs": [],
                                         "frame": {
                                             "x": 180,
-                                            "y": 1509,
+                                            "y": 1433,
                                             "width": 6,
                                             "height": 7
                                         },
@@ -8155,7 +9178,7 @@ var symbolsData = {};var layersData = [
                                         "childs": [],
                                         "frame": {
                                             "x": 173,
-                                            "y": 1509,
+                                            "y": 1433,
                                             "width": 6,
                                             "height": 7
                                         },
@@ -8167,7 +9190,7 @@ var symbolsData = {};var layersData = [
                                 ],
                                 "frame": {
                                     "x": 173,
-                                    "y": 1509,
+                                    "y": 1433,
                                     "width": 13,
                                     "height": 7
                                 },
@@ -8179,7 +9202,7 @@ var symbolsData = {};var layersData = [
                         ],
                         "frame": {
                             "x": 164,
-                            "y": 1496,
+                            "y": 1420,
                             "width": 32,
                             "height": 32
                         },
@@ -8197,7 +9220,7 @@ var symbolsData = {};var layersData = [
                                         "childs": [],
                                         "frame": {
                                             "x": 180,
-                                            "y": 1659,
+                                            "y": 1583,
                                             "width": 6,
                                             "height": 7
                                         },
@@ -8210,7 +9233,7 @@ var symbolsData = {};var layersData = [
                                         "childs": [],
                                         "frame": {
                                             "x": 173,
-                                            "y": 1659,
+                                            "y": 1583,
                                             "width": 6,
                                             "height": 7
                                         },
@@ -8222,7 +9245,7 @@ var symbolsData = {};var layersData = [
                                 ],
                                 "frame": {
                                     "x": 173,
-                                    "y": 1659,
+                                    "y": 1583,
                                     "width": 13,
                                     "height": 7
                                 },
@@ -8234,7 +9257,7 @@ var symbolsData = {};var layersData = [
                         ],
                         "frame": {
                             "x": 164,
-                            "y": 1646,
+                            "y": 1570,
                             "width": 32,
                             "height": 32
                         },
@@ -8254,7 +9277,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 167,
-                                                    "y": 1256,
+                                                    "y": 1180,
                                                     "width": 8,
                                                     "height": 5
                                                 },
@@ -8267,7 +9290,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 167,
-                                                    "y": 1265,
+                                                    "y": 1189,
                                                     "width": 8,
                                                     "height": 5
                                                 },
@@ -8280,7 +9303,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 167,
-                                                    "y": 1274,
+                                                    "y": 1198,
                                                     "width": 8,
                                                     "height": 5
                                                 },
@@ -8293,7 +9316,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 162,
-                                                    "y": 1251,
+                                                    "y": 1175,
                                                     "width": 27,
                                                     "height": 32
                                                 },
@@ -8306,7 +9329,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 176,
-                                                    "y": 1258,
+                                                    "y": 1182,
                                                     "width": 8,
                                                     "height": 2
                                                 },
@@ -8319,7 +9342,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 176,
-                                                    "y": 1266,
+                                                    "y": 1190,
                                                     "width": 8,
                                                     "height": 2
                                                 },
@@ -8332,7 +9355,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 176,
-                                                    "y": 1275,
+                                                    "y": 1199,
                                                     "width": 8,
                                                     "height": 2
                                                 },
@@ -8347,7 +9370,7 @@ var symbolsData = {};var layersData = [
                                                         "childs": [],
                                                         "frame": {
                                                             "x": 188,
-                                                            "y": 1263,
+                                                            "y": 1187,
                                                             "width": 8,
                                                             "height": 16
                                                         },
@@ -8360,7 +9383,7 @@ var symbolsData = {};var layersData = [
                                                         "childs": [],
                                                         "frame": {
                                                             "x": 188,
-                                                            "y": 1281,
+                                                            "y": 1205,
                                                             "width": 8,
                                                             "height": 4
                                                         },
@@ -8373,7 +9396,7 @@ var symbolsData = {};var layersData = [
                                                         "childs": [],
                                                         "frame": {
                                                             "x": 186,
-                                                            "y": 1261,
+                                                            "y": 1185,
                                                             "width": 12,
                                                             "height": 26
                                                         },
@@ -8385,7 +9408,7 @@ var symbolsData = {};var layersData = [
                                                 ],
                                                 "frame": {
                                                     "x": 186,
-                                                    "y": 1261,
+                                                    "y": 1185,
                                                     "width": 12,
                                                     "height": 26
                                                 },
@@ -8397,7 +9420,7 @@ var symbolsData = {};var layersData = [
                                         ],
                                         "frame": {
                                             "x": 162,
-                                            "y": 1251,
+                                            "y": 1175,
                                             "width": 36,
                                             "height": 36
                                         },
@@ -8409,7 +9432,7 @@ var symbolsData = {};var layersData = [
                                 ],
                                 "frame": {
                                     "x": 156,
-                                    "y": 1245,
+                                    "y": 1169,
                                     "width": 48,
                                     "height": 48
                                 },
@@ -8423,7 +9446,7 @@ var symbolsData = {};var layersData = [
                                 "childs": [],
                                 "frame": {
                                     "x": 112,
-                                    "y": 1301,
+                                    "y": 1225,
                                     "width": 137,
                                     "height": 15
                                 },
@@ -8437,7 +9460,7 @@ var symbolsData = {};var layersData = [
                                 "childs": [],
                                 "frame": {
                                     "x": 85,
-                                    "y": 1320,
+                                    "y": 1244,
                                     "width": 190,
                                     "height": 15
                                 },
@@ -8449,7 +9472,7 @@ var symbolsData = {};var layersData = [
                         ],
                         "frame": {
                             "x": 85,
-                            "y": 1245,
+                            "y": 1169,
                             "width": 190,
                             "height": 90
                         },
@@ -8465,7 +9488,7 @@ var symbolsData = {};var layersData = [
                                 "childs": [],
                                 "frame": {
                                     "x": 137,
-                                    "y": 1439,
+                                    "y": 1363,
                                     "width": 87,
                                     "height": 15
                                 },
@@ -8483,7 +9506,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 164,
-                                                    "y": 1393,
+                                                    "y": 1317,
                                                     "width": 33,
                                                     "height": 29
                                                 },
@@ -8496,7 +9519,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 162,
-                                                    "y": 1391,
+                                                    "y": 1315,
                                                     "width": 36,
                                                     "height": 32
                                                 },
@@ -8509,7 +9532,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 176,
-                                                    "y": 1410,
+                                                    "y": 1334,
                                                     "width": 8,
                                                     "height": 4
                                                 },
@@ -8522,7 +9545,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 176,
-                                                    "y": 1405,
+                                                    "y": 1329,
                                                     "width": 8,
                                                     "height": 4
                                                 },
@@ -8535,7 +9558,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 173,
-                                                    "y": 1402,
+                                                    "y": 1326,
                                                     "width": 15,
                                                     "height": 14
                                                 },
@@ -8548,7 +9571,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 178,
-                                                    "y": 1393,
+                                                    "y": 1317,
                                                     "width": 14,
                                                     "height": 3
                                                 },
@@ -8560,7 +9583,7 @@ var symbolsData = {};var layersData = [
                                         ],
                                         "frame": {
                                             "x": 162,
-                                            "y": 1391,
+                                            "y": 1315,
                                             "width": 36,
                                             "height": 32
                                         },
@@ -8572,7 +9595,7 @@ var symbolsData = {};var layersData = [
                                 ],
                                 "frame": {
                                     "x": 156,
-                                    "y": 1383,
+                                    "y": 1307,
                                     "width": 48,
                                     "height": 48
                                 },
@@ -8586,7 +9609,7 @@ var symbolsData = {};var layersData = [
                                 "childs": [],
                                 "frame": {
                                     "x": 57,
-                                    "y": 1458,
+                                    "y": 1382,
                                     "width": 247,
                                     "height": 30
                                 },
@@ -8598,7 +9621,7 @@ var symbolsData = {};var layersData = [
                         ],
                         "frame": {
                             "x": 57,
-                            "y": 1383,
+                            "y": 1307,
                             "width": 247,
                             "height": 105
                         },
@@ -8618,7 +9641,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 173,
-                                                    "y": 1561,
+                                                    "y": 1485,
                                                     "width": 4,
                                                     "height": 12
                                                 },
@@ -8631,7 +9654,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 180,
-                                                    "y": 1566,
+                                                    "y": 1490,
                                                     "width": 5,
                                                     "height": 5
                                                 },
@@ -8644,7 +9667,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 179,
-                                                    "y": 1561,
+                                                    "y": 1485,
                                                     "width": 8,
                                                     "height": 12
                                                 },
@@ -8657,7 +9680,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 176,
-                                                    "y": 1547,
+                                                    "y": 1471,
                                                     "width": 8,
                                                     "height": 2
                                                 },
@@ -8670,7 +9693,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 172,
-                                                    "y": 1542,
+                                                    "y": 1466,
                                                     "width": 2,
                                                     "height": 11
                                                 },
@@ -8683,7 +9706,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 186,
-                                                    "y": 1542,
+                                                    "y": 1466,
                                                     "width": 2,
                                                     "height": 11
                                                 },
@@ -8696,7 +9719,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 162,
-                                                    "y": 1556,
+                                                    "y": 1480,
                                                     "width": 36,
                                                     "height": 20
                                                 },
@@ -8709,7 +9732,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 160,
-                                                    "y": 1548,
+                                                    "y": 1472,
                                                     "width": 40,
                                                     "height": 30
                                                 },
@@ -8721,7 +9744,7 @@ var symbolsData = {};var layersData = [
                                         ],
                                         "frame": {
                                             "x": 160,
-                                            "y": 1542,
+                                            "y": 1466,
                                             "width": 40,
                                             "height": 36
                                         },
@@ -8733,7 +9756,7 @@ var symbolsData = {};var layersData = [
                                 ],
                                 "frame": {
                                     "x": 156,
-                                    "y": 1536,
+                                    "y": 1460,
                                     "width": 48,
                                     "height": 48
                                 },
@@ -8747,7 +9770,7 @@ var symbolsData = {};var layersData = [
                                 "childs": [],
                                 "frame": {
                                     "x": 146,
-                                    "y": 1589,
+                                    "y": 1513,
                                     "width": 69,
                                     "height": 15
                                 },
@@ -8761,7 +9784,7 @@ var symbolsData = {};var layersData = [
                                 "childs": [],
                                 "frame": {
                                     "x": 89,
-                                    "y": 1608,
+                                    "y": 1532,
                                     "width": 183,
                                     "height": 30
                                 },
@@ -8773,7 +9796,7 @@ var symbolsData = {};var layersData = [
                         ],
                         "frame": {
                             "x": 89,
-                            "y": 1536,
+                            "y": 1460,
                             "width": 183,
                             "height": 102
                         },
@@ -8793,7 +9816,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 174,
-                                                    "y": 1696,
+                                                    "y": 1620,
                                                     "width": 12,
                                                     "height": 10
                                                 },
@@ -8806,7 +9829,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 162,
-                                                    "y": 1692,
+                                                    "y": 1616,
                                                     "width": 30,
                                                     "height": 35
                                                 },
@@ -8819,7 +9842,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 178,
-                                                    "y": 1718,
+                                                    "y": 1642,
                                                     "width": 18,
                                                     "height": 8
                                                 },
@@ -8832,7 +9855,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 172,
-                                                    "y": 1716,
+                                                    "y": 1640,
                                                     "width": 26,
                                                     "height": 12
                                                 },
@@ -8845,7 +9868,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 170,
-                                                    "y": 1696,
+                                                    "y": 1620,
                                                     "width": 15,
                                                     "height": 15
                                                 },
@@ -8858,7 +9881,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 186,
-                                                    "y": 1719,
+                                                    "y": 1643,
                                                     "width": 3,
                                                     "height": 7
                                                 },
@@ -8870,7 +9893,7 @@ var symbolsData = {};var layersData = [
                                         ],
                                         "frame": {
                                             "x": 162,
-                                            "y": 1692,
+                                            "y": 1616,
                                             "width": 36,
                                             "height": 36
                                         },
@@ -8882,7 +9905,7 @@ var symbolsData = {};var layersData = [
                                 ],
                                 "frame": {
                                     "x": 156,
-                                    "y": 1686,
+                                    "y": 1610,
                                     "width": 48,
                                     "height": 48
                                 },
@@ -8896,7 +9919,7 @@ var symbolsData = {};var layersData = [
                                 "childs": [],
                                 "frame": {
                                     "x": 146,
-                                    "y": 1742,
+                                    "y": 1666,
                                     "width": 68,
                                     "height": 15
                                 },
@@ -8910,7 +9933,7 @@ var symbolsData = {};var layersData = [
                                 "childs": [],
                                 "frame": {
                                     "x": 47,
-                                    "y": 1761,
+                                    "y": 1685,
                                     "width": 267,
                                     "height": 30
                                 },
@@ -8922,7 +9945,7 @@ var symbolsData = {};var layersData = [
                         ],
                         "frame": {
                             "x": 47,
-                            "y": 1686,
+                            "y": 1610,
                             "width": 267,
                             "height": 105
                         },
@@ -8934,7 +9957,7 @@ var symbolsData = {};var layersData = [
                 ],
                 "frame": {
                     "x": 0,
-                    "y": 1049,
+                    "y": 973,
                     "width": 360,
                     "height": 774
                 },
@@ -8944,16 +9967,357 @@ var symbolsData = {};var layersData = [
                 }
             },
             {
-                "childs": [],
+                "symbolMasterName": "Part of OLX group",
+                "childs": [
+                    {
+                        "childs": [
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 48,
+                                    "y": 193,
+                                    "width": 6,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 49,
+                                    "y": 195,
+                                    "width": 3,
+                                    "height": 2
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 53,
+                                    "y": 193,
+                                    "width": 7,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 56,
+                                    "y": 195,
+                                    "width": 2,
+                                    "height": 2
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 61,
+                                    "y": 193,
+                                    "width": 6,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 63,
+                                    "y": 195,
+                                    "width": 3,
+                                    "height": 2
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 67,
+                                    "y": 193,
+                                    "width": 6,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 76,
+                                    "y": 193,
+                                    "width": 8,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 78,
+                                    "y": 195,
+                                    "width": 5,
+                                    "height": 5
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 85,
+                                    "y": 193,
+                                    "width": 5,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 48,
+                                    "y": 203,
+                                    "width": 8,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 49,
+                                    "y": 204,
+                                    "width": 5,
+                                    "height": 5
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 56,
+                                    "y": 203,
+                                    "width": 5,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 62,
+                                    "y": 203,
+                                    "width": 6,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 72,
+                                    "y": 203,
+                                    "width": 7,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 80,
+                                    "y": 203,
+                                    "width": 6,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 82,
+                                    "y": 204,
+                                    "width": 3,
+                                    "height": 2
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 86,
+                                    "y": 203,
+                                    "width": 8,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 88,
+                                    "y": 204,
+                                    "width": 5,
+                                    "height": 5
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 95,
+                                    "y": 203,
+                                    "width": 6,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 102,
+                                    "y": 203,
+                                    "width": 6,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 104,
+                                    "y": 204,
+                                    "width": 3,
+                                    "height": 2
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 13,
+                                    "y": 189,
+                                    "width": 26,
+                                    "height": 26
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 17,
+                                    "y": 193,
+                                    "width": 18,
+                                    "height": 17
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 21,
+                                    "y": 202,
+                                    "width": 5,
+                                    "height": 5
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            }
+                        ],
+                        "frame": {
+                            "x": 13,
+                            "y": 189,
+                            "width": 95,
+                            "height": 26
+                        },
+                        "constrains": {
+                            "height": false,
+                            "width": false
+                        }
+                    }
+                ],
                 "frame": {
-                    "x": 91,
-                    "y": 973,
-                    "width": 178.0000000000001,
-                    "height": 60
+                    "x": 11,
+                    "y": 187,
+                    "width": 99,
+                    "height": 30
                 },
                 "constrains": {
-                    "height": true,
-                    "width": true
+                    "height": false,
+                    "width": false
                 }
             }
         ],
@@ -8961,7 +10325,7 @@ var symbolsData = {};var layersData = [
             "x": 0,
             "y": 0,
             "width": 360,
-            "height": 1841
+            "height": 1772
         }
     },
     {
@@ -9001,7 +10365,7 @@ var symbolsData = {};var layersData = [
                         ],
                         "frame": {
                             "x": 0,
-                            "y": 0,
+                            "y": 1.1368683772161603e-13,
                             "width": 360,
                             "height": 24
                         },
@@ -9021,7 +10385,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 317.642578125,
-                                                    "y": 9.046875,
+                                                    "y": 9.046875000000114,
                                                     "width": 3.6845703125,
                                                     "height": 9.953125
                                                 },
@@ -9034,7 +10398,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 324.96945566798877,
-                                                    "y": 8.9033203125,
+                                                    "y": 8.903320312500114,
                                                     "width": 6.761989644511232,
                                                     "height": 10.0966796875
                                                 },
@@ -9047,7 +10411,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 333.37890625,
-                                                    "y": 17.4072265625,
+                                                    "y": 17.407226562500114,
                                                     "width": 1.654296875,
                                                     "height": 1.5927734375
                                                 },
@@ -9060,7 +10424,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 333.37890625,
-                                                    "y": 11.4189453125,
+                                                    "y": 11.418945312500114,
                                                     "width": 1.654296875,
                                                     "height": 1.5927734375
                                                 },
@@ -9073,7 +10437,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 336.6721131544846,
-                                                    "y": 8.9033203125,
+                                                    "y": 8.903320312500114,
                                                     "width": 6.5642149705154225,
                                                     "height": 10.240234375
                                                 },
@@ -9086,7 +10450,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 344.75390625,
-                                                    "y": 8.9033203125,
+                                                    "y": 8.903320312500114,
                                                     "width": 6.5283203125,
                                                     "height": 10.240234375
                                                 },
@@ -9099,7 +10463,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 346.4150390625,
-                                                    "y": 10.236328125,
+                                                    "y": 10.236328125000114,
                                                     "width": 3.2060546875,
                                                     "height": 7.5810546875
                                                 },
@@ -9111,7 +10475,7 @@ var symbolsData = {};var layersData = [
                                         ],
                                         "frame": {
                                             "x": 317.642578125,
-                                            "y": 8.9033203125,
+                                            "y": 8.903320312500114,
                                             "width": 33.6396484375,
                                             "height": 10.240234375
                                         },
@@ -9139,7 +10503,7 @@ var symbolsData = {};var layersData = [
                                         ],
                                         "frame": {
                                             "x": 315,
-                                            "y": 6,
+                                            "y": 6.000000000000114,
                                             "width": 38,
                                             "height": 14
                                         },
@@ -9151,7 +10515,7 @@ var symbolsData = {};var layersData = [
                                 ],
                                 "frame": {
                                     "x": 317,
-                                    "y": 8,
+                                    "y": 8.000000000000114,
                                     "width": 35,
                                     "height": 12
                                 },
@@ -9166,7 +10530,7 @@ var symbolsData = {};var layersData = [
                                         "childs": [],
                                         "frame": {
                                             "x": 301,
-                                            "y": 5,
+                                            "y": 5.000000000000114,
                                             "width": 9,
                                             "height": 14
                                         },
@@ -9194,7 +10558,7 @@ var symbolsData = {};var layersData = [
                                         ],
                                         "frame": {
                                             "x": 297,
-                                            "y": 4,
+                                            "y": 4.000000000000114,
                                             "width": 16,
                                             "height": 16
                                         },
@@ -9206,7 +10570,7 @@ var symbolsData = {};var layersData = [
                                 ],
                                 "frame": {
                                     "x": 301,
-                                    "y": 5,
+                                    "y": 5.000000000000114,
                                     "width": 9,
                                     "height": 14
                                 },
@@ -9221,7 +10585,7 @@ var symbolsData = {};var layersData = [
                                         "childs": [],
                                         "frame": {
                                             "x": 278,
-                                            "y": 5,
+                                            "y": 5.000000000000114,
                                             "width": 14,
                                             "height": 14
                                         },
@@ -9249,7 +10613,7 @@ var symbolsData = {};var layersData = [
                                         ],
                                         "frame": {
                                             "x": 277,
-                                            "y": 4,
+                                            "y": 4.000000000000114,
                                             "width": 16,
                                             "height": 16
                                         },
@@ -9261,7 +10625,7 @@ var symbolsData = {};var layersData = [
                                 ],
                                 "frame": {
                                     "x": 278,
-                                    "y": 5,
+                                    "y": 5.000000000000114,
                                     "width": 14,
                                     "height": 14
                                 },
@@ -9303,7 +10667,7 @@ var symbolsData = {};var layersData = [
                                         ],
                                         "frame": {
                                             "x": 256.9773720851804,
-                                            "y": 5,
+                                            "y": 5.000000000000114,
                                             "width": 18.045255829681537,
                                             "height": 14
                                         },
@@ -9331,7 +10695,7 @@ var symbolsData = {};var layersData = [
                                         ],
                                         "frame": {
                                             "x": 256,
-                                            "y": 4,
+                                            "y": 4.000000000000114,
                                             "width": 20,
                                             "height": 16
                                         },
@@ -9343,7 +10707,7 @@ var symbolsData = {};var layersData = [
                                 ],
                                 "frame": {
                                     "x": 256,
-                                    "y": 5,
+                                    "y": 5.000000000000114,
                                     "width": 20,
                                     "height": 14
                                 },
@@ -9355,7 +10719,7 @@ var symbolsData = {};var layersData = [
                         ],
                         "frame": {
                             "x": 242,
-                            "y": 0,
+                            "y": 1.1368683772161603e-13,
                             "width": 118,
                             "height": 24
                         },
@@ -9367,7 +10731,7 @@ var symbolsData = {};var layersData = [
                 ],
                 "frame": {
                     "x": 0,
-                    "y": 0,
+                    "y": 1.1368683772161603e-13,
                     "width": 360,
                     "height": 24
                 },
@@ -9383,7 +10747,7 @@ var symbolsData = {};var layersData = [
                         "childs": [],
                         "frame": {
                             "x": 0,
-                            "y": 24,
+                            "y": 24.000000000000114,
                             "width": 360,
                             "height": 56
                         },
@@ -9396,7 +10760,7 @@ var symbolsData = {};var layersData = [
                         "childs": [],
                         "frame": {
                             "x": 0,
-                            "y": 79.3,
+                            "y": 79.30000000000011,
                             "width": 360,
                             "height": 0.7000000000000028
                         },
@@ -9424,7 +10788,7 @@ var symbolsData = {};var layersData = [
                         ],
                         "frame": {
                             "x": 16,
-                            "y": 43,
+                            "y": 43.000000000000114,
                             "width": 138.31578947368416,
                             "height": 18
                         },
@@ -9437,7 +10801,7 @@ var symbolsData = {};var layersData = [
                         "childs": [],
                         "frame": {
                             "x": 180,
-                            "y": 40,
+                            "y": 40.000000000000114,
                             "width": 1,
                             "height": 24
                         },
@@ -9453,7 +10817,7 @@ var symbolsData = {};var layersData = [
                                 "childs": [],
                                 "frame": {
                                     "x": 195,
-                                    "y": 37,
+                                    "y": 37.000000000000114,
                                     "width": 121,
                                     "height": 30
                                 },
@@ -9468,7 +10832,7 @@ var symbolsData = {};var layersData = [
                                         "childs": [],
                                         "frame": {
                                             "x": 325.9153508771933,
-                                            "y": 43.54904347826088,
+                                            "y": 43.54904347826099,
                                             "width": 16.3755535087721,
                                             "height": 16.355478260869553
                                         },
@@ -9535,7 +10899,7 @@ var symbolsData = {};var layersData = [
                                         ],
                                         "frame": {
                                             "x": 324.00409188596495,
-                                            "y": 42,
+                                            "y": 42.000000000000114,
                                             "width": 19.837724342105503,
                                             "height": 19.96800000000001
                                         },
@@ -9547,7 +10911,7 @@ var symbolsData = {};var layersData = [
                                 ],
                                 "frame": {
                                     "x": 324,
-                                    "y": 42,
+                                    "y": 42.000000000000114,
                                     "width": 20,
                                     "height": 20
                                 },
@@ -9559,7 +10923,7 @@ var symbolsData = {};var layersData = [
                         ],
                         "frame": {
                             "x": 195,
-                            "y": 37,
+                            "y": 37.000000000000114,
                             "width": 149,
                             "height": 30
                         },
@@ -9571,7 +10935,7 @@ var symbolsData = {};var layersData = [
                 ],
                 "frame": {
                     "x": 0,
-                    "y": 24,
+                    "y": 24.000000000000114,
                     "width": 360,
                     "height": 56
                 },
@@ -9614,7 +10978,7 @@ var symbolsData = {};var layersData = [
                         ],
                         "frame": {
                             "x": 55,
-                            "y": 80,
+                            "y": 80.00000000000011,
                             "width": 406,
                             "height": 269
                         },
@@ -9642,7 +11006,7 @@ var symbolsData = {};var layersData = [
                         ],
                         "frame": {
                             "x": 0,
-                            "y": 80,
+                            "y": 80.00000000000011,
                             "width": 360,
                             "height": 269
                         },
@@ -9654,7 +11018,7 @@ var symbolsData = {};var layersData = [
                 ],
                 "frame": {
                     "x": 0,
-                    "y": 80,
+                    "y": 80.00000000000011,
                     "width": 463,
                     "height": 269
                 },
@@ -9668,7 +11032,7 @@ var symbolsData = {};var layersData = [
                 "childs": [],
                 "frame": {
                     "x": 11,
-                    "y": 94,
+                    "y": 94.00000000000011,
                     "width": 268,
                     "height": 87
                 },
@@ -9740,7 +11104,7 @@ var symbolsData = {};var layersData = [
                         "childs": [],
                         "frame": {
                             "x": 17,
-                            "y": 1346,
+                            "y": 1270,
                             "width": 25,
                             "height": 732
                         },
@@ -9753,7 +11117,7 @@ var symbolsData = {};var layersData = [
                         "childs": [],
                         "frame": {
                             "x": 320,
-                            "y": 1346,
+                            "y": 1270,
                             "width": 25,
                             "height": 732
                         },
@@ -9767,7 +11131,7 @@ var symbolsData = {};var layersData = [
                         "childs": [],
                         "frame": {
                             "x": 65,
-                            "y": 1334,
+                            "y": 1258,
                             "width": 230,
                             "height": 29
                         },
@@ -9785,7 +11149,7 @@ var symbolsData = {};var layersData = [
                                         "childs": [],
                                         "frame": {
                                             "x": 162,
-                                            "y": 1391,
+                                            "y": 1315,
                                             "width": 36,
                                             "height": 30
                                         },
@@ -9798,7 +11162,7 @@ var symbolsData = {};var layersData = [
                                         "childs": [],
                                         "frame": {
                                             "x": 176,
-                                            "y": 1385,
+                                            "y": 1309,
                                             "width": 8,
                                             "height": 5
                                         },
@@ -9811,7 +11175,7 @@ var symbolsData = {};var layersData = [
                                         "childs": [],
                                         "frame": {
                                             "x": 176,
-                                            "y": 1391,
+                                            "y": 1315,
                                             "width": 8,
                                             "height": 5
                                         },
@@ -9824,7 +11188,7 @@ var symbolsData = {};var layersData = [
                                         "childs": [],
                                         "frame": {
                                             "x": 176,
-                                            "y": 1397,
+                                            "y": 1321,
                                             "width": 8,
                                             "height": 5
                                         },
@@ -9836,7 +11200,7 @@ var symbolsData = {};var layersData = [
                                 ],
                                 "frame": {
                                     "x": 162,
-                                    "y": 1385,
+                                    "y": 1309,
                                     "width": 36,
                                     "height": 36
                                 },
@@ -9848,7 +11212,7 @@ var symbolsData = {};var layersData = [
                         ],
                         "frame": {
                             "x": 156,
-                            "y": 1379,
+                            "y": 1303,
                             "width": 48,
                             "height": 48
                         },
@@ -9862,7 +11226,7 @@ var symbolsData = {};var layersData = [
                         "childs": [],
                         "frame": {
                             "x": 140,
-                            "y": 1435,
+                            "y": 1359,
                             "width": 80,
                             "height": 15
                         },
@@ -9876,7 +11240,7 @@ var symbolsData = {};var layersData = [
                         "childs": [],
                         "frame": {
                             "x": 88,
-                            "y": 1454,
+                            "y": 1378,
                             "width": 184,
                             "height": 15
                         },
@@ -9894,7 +11258,7 @@ var symbolsData = {};var layersData = [
                                         "childs": [],
                                         "frame": {
                                             "x": 180,
-                                            "y": 1490,
+                                            "y": 1414,
                                             "width": 6,
                                             "height": 7
                                         },
@@ -9907,7 +11271,7 @@ var symbolsData = {};var layersData = [
                                         "childs": [],
                                         "frame": {
                                             "x": 173,
-                                            "y": 1490,
+                                            "y": 1414,
                                             "width": 6,
                                             "height": 7
                                         },
@@ -9919,7 +11283,7 @@ var symbolsData = {};var layersData = [
                                 ],
                                 "frame": {
                                     "x": 173,
-                                    "y": 1490,
+                                    "y": 1414,
                                     "width": 13,
                                     "height": 7
                                 },
@@ -9931,7 +11295,7 @@ var symbolsData = {};var layersData = [
                         ],
                         "frame": {
                             "x": 164,
-                            "y": 1477,
+                            "y": 1401,
                             "width": 32,
                             "height": 32
                         },
@@ -9949,7 +11313,7 @@ var symbolsData = {};var layersData = [
                                         "childs": [],
                                         "frame": {
                                             "x": 180,
-                                            "y": 1628,
+                                            "y": 1552,
                                             "width": 6,
                                             "height": 7
                                         },
@@ -9962,7 +11326,7 @@ var symbolsData = {};var layersData = [
                                         "childs": [],
                                         "frame": {
                                             "x": 173,
-                                            "y": 1628,
+                                            "y": 1552,
                                             "width": 6,
                                             "height": 7
                                         },
@@ -9974,7 +11338,7 @@ var symbolsData = {};var layersData = [
                                 ],
                                 "frame": {
                                     "x": 173,
-                                    "y": 1628,
+                                    "y": 1552,
                                     "width": 13,
                                     "height": 7
                                 },
@@ -9986,7 +11350,7 @@ var symbolsData = {};var layersData = [
                         ],
                         "frame": {
                             "x": 164,
-                            "y": 1615,
+                            "y": 1539,
                             "width": 32,
                             "height": 32
                         },
@@ -10004,7 +11368,7 @@ var symbolsData = {};var layersData = [
                                         "childs": [],
                                         "frame": {
                                             "x": 180,
-                                            "y": 1781,
+                                            "y": 1705,
                                             "width": 6,
                                             "height": 7
                                         },
@@ -10017,7 +11381,7 @@ var symbolsData = {};var layersData = [
                                         "childs": [],
                                         "frame": {
                                             "x": 173,
-                                            "y": 1781,
+                                            "y": 1705,
                                             "width": 6,
                                             "height": 7
                                         },
@@ -10029,7 +11393,7 @@ var symbolsData = {};var layersData = [
                                 ],
                                 "frame": {
                                     "x": 173,
-                                    "y": 1781,
+                                    "y": 1705,
                                     "width": 13,
                                     "height": 7
                                 },
@@ -10041,7 +11405,7 @@ var symbolsData = {};var layersData = [
                         ],
                         "frame": {
                             "x": 164,
-                            "y": 1768,
+                            "y": 1692,
                             "width": 32,
                             "height": 32
                         },
@@ -10059,7 +11423,7 @@ var symbolsData = {};var layersData = [
                                         "childs": [],
                                         "frame": {
                                             "x": 180,
-                                            "y": 1931,
+                                            "y": 1855,
                                             "width": 6,
                                             "height": 7
                                         },
@@ -10072,7 +11436,7 @@ var symbolsData = {};var layersData = [
                                         "childs": [],
                                         "frame": {
                                             "x": 173,
-                                            "y": 1931,
+                                            "y": 1855,
                                             "width": 6,
                                             "height": 7
                                         },
@@ -10084,7 +11448,7 @@ var symbolsData = {};var layersData = [
                                 ],
                                 "frame": {
                                     "x": 173,
-                                    "y": 1931,
+                                    "y": 1855,
                                     "width": 13,
                                     "height": 7
                                 },
@@ -10096,7 +11460,7 @@ var symbolsData = {};var layersData = [
                         ],
                         "frame": {
                             "x": 164,
-                            "y": 1918,
+                            "y": 1842,
                             "width": 32,
                             "height": 32
                         },
@@ -10116,7 +11480,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 167,
-                                                    "y": 1528,
+                                                    "y": 1452,
                                                     "width": 8,
                                                     "height": 5
                                                 },
@@ -10129,7 +11493,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 167,
-                                                    "y": 1537,
+                                                    "y": 1461,
                                                     "width": 8,
                                                     "height": 5
                                                 },
@@ -10142,7 +11506,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 167,
-                                                    "y": 1546,
+                                                    "y": 1470,
                                                     "width": 8,
                                                     "height": 5
                                                 },
@@ -10155,7 +11519,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 162,
-                                                    "y": 1523,
+                                                    "y": 1447,
                                                     "width": 27,
                                                     "height": 32
                                                 },
@@ -10168,7 +11532,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 176,
-                                                    "y": 1530,
+                                                    "y": 1454,
                                                     "width": 8,
                                                     "height": 2
                                                 },
@@ -10181,7 +11545,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 176,
-                                                    "y": 1538,
+                                                    "y": 1462,
                                                     "width": 8,
                                                     "height": 2
                                                 },
@@ -10194,7 +11558,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 176,
-                                                    "y": 1547,
+                                                    "y": 1471,
                                                     "width": 8,
                                                     "height": 2
                                                 },
@@ -10209,7 +11573,7 @@ var symbolsData = {};var layersData = [
                                                         "childs": [],
                                                         "frame": {
                                                             "x": 188,
-                                                            "y": 1535,
+                                                            "y": 1459,
                                                             "width": 8,
                                                             "height": 16
                                                         },
@@ -10222,7 +11586,7 @@ var symbolsData = {};var layersData = [
                                                         "childs": [],
                                                         "frame": {
                                                             "x": 188,
-                                                            "y": 1553,
+                                                            "y": 1477,
                                                             "width": 8,
                                                             "height": 4
                                                         },
@@ -10235,7 +11599,7 @@ var symbolsData = {};var layersData = [
                                                         "childs": [],
                                                         "frame": {
                                                             "x": 186,
-                                                            "y": 1533,
+                                                            "y": 1457,
                                                             "width": 12,
                                                             "height": 26
                                                         },
@@ -10247,7 +11611,7 @@ var symbolsData = {};var layersData = [
                                                 ],
                                                 "frame": {
                                                     "x": 186,
-                                                    "y": 1533,
+                                                    "y": 1457,
                                                     "width": 12,
                                                     "height": 26
                                                 },
@@ -10259,7 +11623,7 @@ var symbolsData = {};var layersData = [
                                         ],
                                         "frame": {
                                             "x": 162,
-                                            "y": 1523,
+                                            "y": 1447,
                                             "width": 36,
                                             "height": 36
                                         },
@@ -10271,7 +11635,7 @@ var symbolsData = {};var layersData = [
                                 ],
                                 "frame": {
                                     "x": 156,
-                                    "y": 1517,
+                                    "y": 1441,
                                     "width": 48,
                                     "height": 48
                                 },
@@ -10285,7 +11649,7 @@ var symbolsData = {};var layersData = [
                                 "childs": [],
                                 "frame": {
                                     "x": 112,
-                                    "y": 1573,
+                                    "y": 1497,
                                     "width": 137,
                                     "height": 15
                                 },
@@ -10299,7 +11663,7 @@ var symbolsData = {};var layersData = [
                                 "childs": [],
                                 "frame": {
                                     "x": 85,
-                                    "y": 1592,
+                                    "y": 1516,
                                     "width": 190,
                                     "height": 15
                                 },
@@ -10311,7 +11675,7 @@ var symbolsData = {};var layersData = [
                         ],
                         "frame": {
                             "x": 85,
-                            "y": 1517,
+                            "y": 1441,
                             "width": 190,
                             "height": 90
                         },
@@ -10327,7 +11691,7 @@ var symbolsData = {};var layersData = [
                                 "childs": [],
                                 "frame": {
                                     "x": 137,
-                                    "y": 1711,
+                                    "y": 1635,
                                     "width": 87,
                                     "height": 15
                                 },
@@ -10345,7 +11709,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 164,
-                                                    "y": 1665,
+                                                    "y": 1589,
                                                     "width": 33,
                                                     "height": 29
                                                 },
@@ -10358,7 +11722,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 162,
-                                                    "y": 1663,
+                                                    "y": 1587,
                                                     "width": 36,
                                                     "height": 32
                                                 },
@@ -10371,7 +11735,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 176,
-                                                    "y": 1682,
+                                                    "y": 1606,
                                                     "width": 8,
                                                     "height": 4
                                                 },
@@ -10384,7 +11748,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 176,
-                                                    "y": 1677,
+                                                    "y": 1601,
                                                     "width": 8,
                                                     "height": 4
                                                 },
@@ -10397,7 +11761,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 173,
-                                                    "y": 1674,
+                                                    "y": 1598,
                                                     "width": 15,
                                                     "height": 14
                                                 },
@@ -10410,7 +11774,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 178,
-                                                    "y": 1665,
+                                                    "y": 1589,
                                                     "width": 14,
                                                     "height": 3
                                                 },
@@ -10422,7 +11786,7 @@ var symbolsData = {};var layersData = [
                                         ],
                                         "frame": {
                                             "x": 162,
-                                            "y": 1663,
+                                            "y": 1587,
                                             "width": 36,
                                             "height": 32
                                         },
@@ -10434,7 +11798,7 @@ var symbolsData = {};var layersData = [
                                 ],
                                 "frame": {
                                     "x": 156,
-                                    "y": 1655,
+                                    "y": 1579,
                                     "width": 48,
                                     "height": 48
                                 },
@@ -10448,7 +11812,7 @@ var symbolsData = {};var layersData = [
                                 "childs": [],
                                 "frame": {
                                     "x": 57,
-                                    "y": 1730,
+                                    "y": 1654,
                                     "width": 247,
                                     "height": 30
                                 },
@@ -10460,7 +11824,7 @@ var symbolsData = {};var layersData = [
                         ],
                         "frame": {
                             "x": 57,
-                            "y": 1655,
+                            "y": 1579,
                             "width": 247,
                             "height": 105
                         },
@@ -10480,7 +11844,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 173,
-                                                    "y": 1833,
+                                                    "y": 1757,
                                                     "width": 4,
                                                     "height": 12
                                                 },
@@ -10493,7 +11857,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 180,
-                                                    "y": 1838,
+                                                    "y": 1762,
                                                     "width": 5,
                                                     "height": 5
                                                 },
@@ -10506,7 +11870,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 179,
-                                                    "y": 1833,
+                                                    "y": 1757,
                                                     "width": 8,
                                                     "height": 12
                                                 },
@@ -10519,7 +11883,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 176,
-                                                    "y": 1819,
+                                                    "y": 1743,
                                                     "width": 8,
                                                     "height": 2
                                                 },
@@ -10532,7 +11896,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 172,
-                                                    "y": 1814,
+                                                    "y": 1738,
                                                     "width": 2,
                                                     "height": 11
                                                 },
@@ -10545,7 +11909,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 186,
-                                                    "y": 1814,
+                                                    "y": 1738,
                                                     "width": 2,
                                                     "height": 11
                                                 },
@@ -10558,7 +11922,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 162,
-                                                    "y": 1828,
+                                                    "y": 1752,
                                                     "width": 36,
                                                     "height": 20
                                                 },
@@ -10571,7 +11935,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 160,
-                                                    "y": 1820,
+                                                    "y": 1744,
                                                     "width": 40,
                                                     "height": 30
                                                 },
@@ -10583,7 +11947,7 @@ var symbolsData = {};var layersData = [
                                         ],
                                         "frame": {
                                             "x": 160,
-                                            "y": 1814,
+                                            "y": 1738,
                                             "width": 40,
                                             "height": 36
                                         },
@@ -10595,7 +11959,7 @@ var symbolsData = {};var layersData = [
                                 ],
                                 "frame": {
                                     "x": 156,
-                                    "y": 1808,
+                                    "y": 1732,
                                     "width": 48,
                                     "height": 48
                                 },
@@ -10609,7 +11973,7 @@ var symbolsData = {};var layersData = [
                                 "childs": [],
                                 "frame": {
                                     "x": 146,
-                                    "y": 1861,
+                                    "y": 1785,
                                     "width": 69,
                                     "height": 15
                                 },
@@ -10623,7 +11987,7 @@ var symbolsData = {};var layersData = [
                                 "childs": [],
                                 "frame": {
                                     "x": 89,
-                                    "y": 1880,
+                                    "y": 1804,
                                     "width": 183,
                                     "height": 30
                                 },
@@ -10635,7 +11999,7 @@ var symbolsData = {};var layersData = [
                         ],
                         "frame": {
                             "x": 89,
-                            "y": 1808,
+                            "y": 1732,
                             "width": 183,
                             "height": 102
                         },
@@ -10655,7 +12019,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 174,
-                                                    "y": 1968,
+                                                    "y": 1892,
                                                     "width": 12,
                                                     "height": 10
                                                 },
@@ -10668,7 +12032,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 162,
-                                                    "y": 1964,
+                                                    "y": 1888,
                                                     "width": 30,
                                                     "height": 35
                                                 },
@@ -10681,7 +12045,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 178,
-                                                    "y": 1990,
+                                                    "y": 1914,
                                                     "width": 18,
                                                     "height": 8
                                                 },
@@ -10694,7 +12058,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 172,
-                                                    "y": 1988,
+                                                    "y": 1912,
                                                     "width": 26,
                                                     "height": 12
                                                 },
@@ -10707,7 +12071,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 170,
-                                                    "y": 1968,
+                                                    "y": 1892,
                                                     "width": 15,
                                                     "height": 15
                                                 },
@@ -10720,7 +12084,7 @@ var symbolsData = {};var layersData = [
                                                 "childs": [],
                                                 "frame": {
                                                     "x": 186,
-                                                    "y": 1991,
+                                                    "y": 1915,
                                                     "width": 3,
                                                     "height": 7
                                                 },
@@ -10732,7 +12096,7 @@ var symbolsData = {};var layersData = [
                                         ],
                                         "frame": {
                                             "x": 162,
-                                            "y": 1964,
+                                            "y": 1888,
                                             "width": 36,
                                             "height": 36
                                         },
@@ -10744,7 +12108,7 @@ var symbolsData = {};var layersData = [
                                 ],
                                 "frame": {
                                     "x": 156,
-                                    "y": 1958,
+                                    "y": 1882,
                                     "width": 48,
                                     "height": 48
                                 },
@@ -10758,7 +12122,7 @@ var symbolsData = {};var layersData = [
                                 "childs": [],
                                 "frame": {
                                     "x": 146,
-                                    "y": 2014,
+                                    "y": 1938,
                                     "width": 68,
                                     "height": 15
                                 },
@@ -10772,7 +12136,7 @@ var symbolsData = {};var layersData = [
                                 "childs": [],
                                 "frame": {
                                     "x": 47,
-                                    "y": 2033,
+                                    "y": 1957,
                                     "width": 267,
                                     "height": 30
                                 },
@@ -10784,7 +12148,7 @@ var symbolsData = {};var layersData = [
                         ],
                         "frame": {
                             "x": 47,
-                            "y": 1958,
+                            "y": 1882,
                             "width": 267,
                             "height": 105
                         },
@@ -10796,7 +12160,7 @@ var symbolsData = {};var layersData = [
                 ],
                 "frame": {
                     "x": 0,
-                    "y": 1321,
+                    "y": 1245,
                     "width": 360,
                     "height": 774.0000000000001
                 },
@@ -10992,7 +12356,7 @@ var symbolsData = {};var layersData = [
                         ],
                         "frame": {
                             "x": 16,
-                            "y": 225,
+                            "y": 225.0000000000001,
                             "width": 328,
                             "height": 24
                         },
@@ -11006,7 +12370,7 @@ var symbolsData = {};var layersData = [
                         "childs": [],
                         "frame": {
                             "x": 263,
-                            "y": 263,
+                            "y": 263.0000000000001,
                             "width": 81,
                             "height": 12
                         },
@@ -11020,7 +12384,7 @@ var symbolsData = {};var layersData = [
                         "childs": [],
                         "frame": {
                             "x": 16,
-                            "y": 263,
+                            "y": 263.0000000000001,
                             "width": 81,
                             "height": 24
                         },
@@ -11034,7 +12398,7 @@ var symbolsData = {};var layersData = [
                         "childs": [],
                         "frame": {
                             "x": 139,
-                            "y": 263,
+                            "y": 263.0000000000001,
                             "width": 81,
                             "height": 24
                         },
@@ -11046,7 +12410,7 @@ var symbolsData = {};var layersData = [
                 ],
                 "frame": {
                     "x": 16,
-                    "y": 225,
+                    "y": 225.0000000000001,
                     "width": 328,
                     "height": 62
                 },
@@ -11778,9 +13142,9 @@ var symbolsData = {};var layersData = [
                 ],
                 "frame": {
                     "x": 16,
-                    "y": 317,
+                    "y": 317.0000000000001,
                     "width": 328,
-                    "height": 722
+                    "height": 721.9999999999999
                 },
                 "constrains": {
                     "height": false,
@@ -11914,16 +13278,357 @@ var symbolsData = {};var layersData = [
                 }
             },
             {
-                "childs": [],
+                "symbolMasterName": "Part of OLX group",
+                "childs": [
+                    {
+                        "childs": [
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 48,
+                                    "y": 193,
+                                    "width": 6,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 49,
+                                    "y": 195,
+                                    "width": 3,
+                                    "height": 2
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 53,
+                                    "y": 193,
+                                    "width": 7,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 56,
+                                    "y": 195,
+                                    "width": 2,
+                                    "height": 2
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 61,
+                                    "y": 193,
+                                    "width": 6,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 63,
+                                    "y": 195,
+                                    "width": 3,
+                                    "height": 2
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 67,
+                                    "y": 193,
+                                    "width": 6,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 76,
+                                    "y": 193,
+                                    "width": 8,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 78,
+                                    "y": 195,
+                                    "width": 5,
+                                    "height": 5
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 85,
+                                    "y": 193,
+                                    "width": 5,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 48,
+                                    "y": 203,
+                                    "width": 8,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 49,
+                                    "y": 204,
+                                    "width": 5,
+                                    "height": 5
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 56,
+                                    "y": 203,
+                                    "width": 5,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 62,
+                                    "y": 203,
+                                    "width": 6,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 72,
+                                    "y": 203,
+                                    "width": 7,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 80,
+                                    "y": 203,
+                                    "width": 6,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 82,
+                                    "y": 204,
+                                    "width": 3,
+                                    "height": 2
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 86,
+                                    "y": 203,
+                                    "width": 8,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 88,
+                                    "y": 204,
+                                    "width": 5,
+                                    "height": 5
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 95,
+                                    "y": 203,
+                                    "width": 6,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 102,
+                                    "y": 203,
+                                    "width": 6,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 104,
+                                    "y": 204,
+                                    "width": 3,
+                                    "height": 2
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 13,
+                                    "y": 189,
+                                    "width": 26,
+                                    "height": 26
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 17,
+                                    "y": 193,
+                                    "width": 18,
+                                    "height": 17
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 21,
+                                    "y": 202,
+                                    "width": 5,
+                                    "height": 5
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            }
+                        ],
+                        "frame": {
+                            "x": 13,
+                            "y": 189,
+                            "width": 95,
+                            "height": 26
+                        },
+                        "constrains": {
+                            "height": false,
+                            "width": false
+                        }
+                    }
+                ],
                 "frame": {
-                    "x": 91,
-                    "y": 1245,
-                    "width": 178.0000000000001,
-                    "height": 60
+                    "x": 11,
+                    "y": 187.0000000000001,
+                    "width": 99,
+                    "height": 30
                 },
                 "constrains": {
-                    "height": true,
-                    "width": true
+                    "height": false,
+                    "width": false
                 }
             }
         ],
@@ -11931,7 +13636,7 @@ var symbolsData = {};var layersData = [
             "x": 0,
             "y": 0,
             "width": 360,
-            "height": 2114
+            "height": 2039
         }
     },
     {
@@ -12928,16 +14633,357 @@ var symbolsData = {};var layersData = [
                 }
             },
             {
-                "childs": [],
+                "symbolMasterName": "Part of OLX group",
+                "childs": [
+                    {
+                        "childs": [
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 48,
+                                    "y": 193,
+                                    "width": 6,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 49,
+                                    "y": 195,
+                                    "width": 3,
+                                    "height": 2
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 53,
+                                    "y": 193,
+                                    "width": 7,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 56,
+                                    "y": 195,
+                                    "width": 2,
+                                    "height": 2
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 61,
+                                    "y": 193,
+                                    "width": 6,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 63,
+                                    "y": 195,
+                                    "width": 3,
+                                    "height": 2
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 67,
+                                    "y": 193,
+                                    "width": 6,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 76,
+                                    "y": 193,
+                                    "width": 8,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 78,
+                                    "y": 195,
+                                    "width": 5,
+                                    "height": 5
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 85,
+                                    "y": 193,
+                                    "width": 5,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 48,
+                                    "y": 203,
+                                    "width": 8,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 49,
+                                    "y": 204,
+                                    "width": 5,
+                                    "height": 5
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 56,
+                                    "y": 203,
+                                    "width": 5,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 62,
+                                    "y": 203,
+                                    "width": 6,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 72,
+                                    "y": 203,
+                                    "width": 7,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 80,
+                                    "y": 203,
+                                    "width": 6,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 82,
+                                    "y": 204,
+                                    "width": 3,
+                                    "height": 2
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 86,
+                                    "y": 203,
+                                    "width": 8,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 88,
+                                    "y": 204,
+                                    "width": 5,
+                                    "height": 5
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 95,
+                                    "y": 203,
+                                    "width": 6,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 102,
+                                    "y": 203,
+                                    "width": 6,
+                                    "height": 8
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 104,
+                                    "y": 204,
+                                    "width": 3,
+                                    "height": 2
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 13,
+                                    "y": 189,
+                                    "width": 26,
+                                    "height": 26
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 17,
+                                    "y": 193,
+                                    "width": 18,
+                                    "height": 17
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            },
+                            {
+                                "childs": [],
+                                "frame": {
+                                    "x": 21,
+                                    "y": 202,
+                                    "width": 5,
+                                    "height": 5
+                                },
+                                "constrains": {
+                                    "height": false,
+                                    "width": false
+                                }
+                            }
+                        ],
+                        "frame": {
+                            "x": 13,
+                            "y": 189,
+                            "width": 95,
+                            "height": 26
+                        },
+                        "constrains": {
+                            "height": false,
+                            "width": false
+                        }
+                    }
+                ],
                 "frame": {
-                    "x": 91,
-                    "y": 621,
-                    "width": 178,
-                    "height": 60
+                    "x": 11,
+                    "y": 187,
+                    "width": 99,
+                    "height": 30
                 },
                 "constrains": {
-                    "height": true,
-                    "width": true
+                    "height": false,
+                    "width": false
                 }
             }
         ],
@@ -12945,7 +14991,7 @@ var symbolsData = {};var layersData = [
             "x": 0,
             "y": 0,
             "width": 360,
-            "height": 714
+            "height": 640
         }
     },
     {
